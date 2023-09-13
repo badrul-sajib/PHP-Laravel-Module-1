@@ -1,0 +1,87 @@
+@import url('https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@300;400;500;600;700&display=swap');
+body{
+    text-align: center;
+}
+*{
+    font-family: 'Space Grotesk', sans-serif;
+}
+
+form input{
+    margin-bottom: 10px;
+}
+.calculator{
+    margin-left: 550px;
+    border: 2px solid blueviolet;
+    background-color: bisque;
+    border-radius: 10px;
+    width: 350px;
+    height: 450px;
+}
+select{
+    padding: 8px;
+    margin-bottom: 10px;
+    border: 1px solid blueviolet;
+    border-radius: 4px;
+}
+input{
+    padding: 8px;
+    border: 1px solid blueviolet;
+    border-radius: 4px;
+}
+button{
+    padding: 10px;
+    background-color: blueviolet;
+    color: white;
+    border-color: 2px solid white;
+    width: 100px;
+    border-radius: 5px;
+}
+#result{
+    color: blueviolet;
+    font-size: 18px;
+    font-weight: 800;
+    margin-top: 20px;
+}
+.comp{
+    text-align: center;
+}
+.comp{
+    margin-left: 550px;
+    border: 2px solid blueviolet;
+    background-color: bisque;
+    border-radius: 10px;
+    width: 350px;
+    height: 300px;
+}
+.odd_even{
+    margin-left: 550px;
+    border: 2px solid blueviolet;
+    background-color: bisque;
+    border-radius: 10px;
+    width: 350px;
+    height: 200px;
+}
+.grade{
+    margin-left: 550px;
+    border: 2px solid blueviolet;
+    background-color: bisque;
+    border-radius: 10px;
+    width: 350px;
+    height: 450px;
+}
+.temp{
+    margin-left: 550px;
+    border: 2px solid blueviolet;
+    background-color: bisque;
+    border-radius: 10px;
+    width: 350px;
+    height: 300px;
+}
+.weather{
+    margin-left: 550px;
+    border: 2px solid blueviolet;
+    background-color: bisque;
+    border-radius: 10px;
+    width: 350px;
+    height: 200px;
+}
